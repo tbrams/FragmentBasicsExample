@@ -24,7 +24,7 @@ import android.widget.TextView;
 
 public class ArticleFragment extends Fragment {
     final static String ARG_POSITION = "position";
-    int mCurrentPosition = -1;
+    private int mCurrentPosition = -1;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, 

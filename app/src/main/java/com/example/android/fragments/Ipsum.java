@@ -15,9 +15,9 @@
  */
 package com.example.android.fragments;
 
-public class Ipsum {
+class Ipsum {
 
-    static String[] Headlines = {
+    static final String[] Headlines = {
         "Article One",
         "Article Two"
     };

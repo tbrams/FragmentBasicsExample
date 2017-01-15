@@ -3,12 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="40fd623ab1b9fa45355c9b0d9402ea0f9e816bfe">
-        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c37d9131eed3097aef2f18fae91cf9f69713ff2/classes.dex" />
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_89a253089e0b6dad32e44d63f9cdd42108d1220c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_fafac52bc74a8a6e53b37af2d8c3c377427f2dc7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -16,17 +25,62 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="5b7b2cd30b5ae42b9beb301e66516d4ca0e530fb">
+        sha1="661fdfe503303c650fc8ab3f313577705b46ffea">
         <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1b8f3c85254470cd1dfa0287032f9a0b5c07a0b3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/tbrams/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_429472adaf37f25335ac9e590a4e007176e61a21/classes.dex" />
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_664486a3978cb2142c05b102f0b6e909e000cd43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8179c7e65f05a23fb19aa7984b4f64895ed7e3c">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c37d9131eed3097aef2f18fae91cf9f69713ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a3fe055b8a8b948e1fa52adcc71c8dbba5fe3931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_6aa6fdd2f0a2680fb3f6aa43977a084afebb27d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_870bbd84bdca5594f469d1dc1ed8d466e9a3cd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/tbrams/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_5f9b1bf9f11b033ffd70c353532e934caca23859/classes.dex" />
     </item>
 
 </items>
