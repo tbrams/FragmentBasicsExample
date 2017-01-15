@@ -16,6 +16,7 @@
 package com.example.android.fragments;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
@@ -58,8 +59,9 @@ public class HeadlinesFragment extends ListFragment {
     }
 
     @Override
-    public void onAttach(Activity activity) {
-        super.onAttach(activity);
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        Activity activity = (Activity)context;
 
         // This makes sure that the container activity has implemented the callback interface.
         // If not, it throws an exception.
